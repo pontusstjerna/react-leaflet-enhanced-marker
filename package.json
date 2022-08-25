@@ -25,7 +25,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "leaflet": "^1.5.1",
-    "react-leaflet": "^2.4.0",
+    "react-leaflet": "^3.2.2",
     "fbjs": "^1.0.0"
   },
   "devDependencies": {
